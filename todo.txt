@@ -1,0 +1,4 @@
+-api with user mail, url and price
+-stokage en bdd
+-everyday check on url if price under given and send mail for advertise user
+-front form
